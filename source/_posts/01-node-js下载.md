@@ -1,7 +1,9 @@
 ---
 title: 01-node.js下载
-categories: 免费搭建个人博客
-tags: '-hexo'
+categories: 
+- 免费搭建个人博客
+tags: 
+- Hexo
 copyright: true
 abbrlink: '6999e946'
 ---

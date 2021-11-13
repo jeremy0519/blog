@@ -4,7 +4,7 @@
 
 # Site
 title: 唐志鹏的小站
-subtitle: ''
+subtitle: '厚积薄发'
 description: ''
 keywords:
 author: Jeremy
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://www.jeremy0519.cn
+url: https://jeremy0519.gitee.io
 root: /
 permalink: posts/:abbrlink.html
 permalink_defaults:
@@ -104,7 +104,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@e.coding.net:jeremy0519/jeremy0519.coding.me.git
+  repo: git@gitee.com:jeremy0519/jeremy0519.git
 
 baidusitemap:
 path: baidusitemap.xml
