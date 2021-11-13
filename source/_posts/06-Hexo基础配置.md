@@ -16,21 +16,21 @@ abbrlink: 5a5675d8
 npm install hexo-cli -g
 {% endcodeblock %}
 如图.
-![][https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic11.jpg]
+![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic11.jpg)
 #### 第2步
 在博客根目录Git Bash，输入
 {% codeblock %}
 hexo init
 {% endcodeblock %}
 如图.
-![][https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic12.jpg]
+![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic12.jpg)
 #### 第4步
 输入
 {% codeblock %}
 npm install
 {% endcodeblock %}
 如图.
-![][https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic13.jpg]
+![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic13.jpg)
 #### 第5步
 输入
 {% codeblock %}
@@ -42,11 +42,11 @@ hexo g
 hexo s
 {% endcodeblock %}
 如图.
-![][https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic14.jpg]
+![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic14.jpg)
 #### 第6步
 打开浏览器，网址输入
 {% codeblock %}
 localhost:4000
 {% endcodeblock %}
 就可以看到如图.
-![][https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic15.jpg]
+![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic15.jpg)

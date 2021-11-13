@@ -29,12 +29,12 @@ search:
   format: html
   limit: 10000
 {% endcodeblock %}
-![][https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic24.jpg]
+![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic24.jpg)
 
 ##### 步骤3
 
 打开主题根目录配置文件（D:\blog\themes\next\_config.yml），将local_search的值设置为true
-![][https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic25.jpg]
+![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic25.jpg)
 
 ##### 步骤4
 
