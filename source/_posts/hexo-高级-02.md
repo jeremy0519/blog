@@ -2,7 +2,7 @@
 title: hexo-高级-02
 copyright: true
 tags:
-  - hexo
+  - Hexo
 categories:
   - 搭建个人博客进阶
 abbrlink: 3d31c0c3
