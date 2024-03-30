@@ -11,11 +11,7 @@ abbrlink: 639d62ea
 #### 第1步
 进入D:/blog，打开_config.yml，修改deploy部分内容.
 ![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic18.jpg)
-#### 第3步
-博客根目录下Git Bash，输入
-{% codeblock %}
-npm install
-{% endcodeblock %}
+<!-- more -->
 #### 第2步
 博客根目录下Git Bash，输入
 {% codeblock %}

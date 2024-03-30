@@ -17,7 +17,7 @@ date: 2019-03-30 19:24:50
 ##### 步骤1
 
 [注册leancloud](https://leancloud.cn/dashboard/login.html#/signup)
-
+<!-- more -->
 ##### 步骤2
 
 [创建应用](https://leancloud.cn/dashboard/applist.html#/newapp)，名称可以随便写.

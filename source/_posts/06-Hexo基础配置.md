@@ -17,6 +17,7 @@ npm install hexo-cli -g
 {% endcodeblock %}
 如图.
 ![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic11.jpg)
+<!-- more -->
 #### 第2步
 在博客根目录Git Bash，输入
 {% codeblock %}

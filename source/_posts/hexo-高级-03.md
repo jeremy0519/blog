@@ -18,7 +18,7 @@ date: 2019-04-02 15:26:29
 {% codeblock %}
 npm install hexo-generator-searchdb --save
 {% endcodeblock %}
-
+<!-- more -->
 ##### 步骤2
 
 打开博客根目录配置文件（D:\blog\_config.yml），在末尾添加如下内容.

@@ -13,6 +13,7 @@ abbrlink: a9334ff9
 #### 第2步
 文件夹右键，点击Git Bash Here，进入这个界面.
 ![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic03.jpg)
+<!-- more -->
 #### 第3步
 输入（粘贴为鼠标右键）
 {% codeblock %}

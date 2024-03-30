@@ -13,6 +13,7 @@ abbrlink: 35d9b621
 #### 第2步
 填写注册的名字（name），邮箱（email），密码（password），填写完后点击create account.
 ![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic01.jpg)
+<!-- more -->
 #### 第3步
 跳转到下一个界面.点击两侧箭头直到图像变正.
 #### 第4步
