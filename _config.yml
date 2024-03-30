@@ -125,7 +125,7 @@ abbrlink:
   force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink. This only updates abbrlink rather than other front variables.
 
 filter_optimize:
-  enable: true
+  enable: false
   # static resource versioning
   versioning: false
   css:
