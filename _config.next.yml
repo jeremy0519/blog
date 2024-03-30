@@ -38,9 +38,9 @@ custom_file_path:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
+scheme: Mist
 #scheme: Pisces
-scheme: Gemini
+#scheme: Gemini
 
 # Dark Mode
 darkmode: true
@@ -626,7 +626,7 @@ quicklink:
 # For more information: https://animate.style
 motion:
   enable: true
-  async: false
+  async: true
   transition:
     # All available transition variants: https://theme-next.js.org/animate/
     menu_item: fadeInDown
@@ -657,6 +657,21 @@ canvas_ribbon:
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
 
+# JavaScript 3D library.
+# Dependencies: https://github.com/next-theme/hexo-next-three
+three:
+  enable: true
+  defer: true
+  cdn:
+  waves:
+    enable: false
+    cdn:
+  lines:
+    enable: true
+    cdn:
+  sphere:
+    enable: false
+    cdn:
 
 # ---------------------------------------------------------------
 # Comments Settings
