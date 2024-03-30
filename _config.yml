@@ -142,8 +142,8 @@ filter_optimize:
       - css/main.css
   js:
     # minify all js files
-    minify: true
-    excludes: three.js
+    minify: false
+    excludes: 
     # remove the comments in each of the js files
     remove_comments: true
   html:
