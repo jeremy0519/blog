@@ -668,11 +668,11 @@ comments:
   style: tabs
   # Choose a comment system to be displayed by default.
   # Available values: disqus | disqusjs | changyan | livere | gitalk | utterances
-  active:
+  active: valine
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
-  lazyload: false
+  lazyload: true
   # Modify texts or order for any naves, here are some examples.
   nav:
     #disqus:
@@ -687,6 +687,20 @@ disqus:
   enable: false
   shortname:
   count: true
+# Valine
+# For more information: https://valine.js.org, https://github.com/xCss/Valine
+valine:
+  enable: true
+  appId: zjkLLkrEvoa8IBQT3eFqzmAK-9Nh9j0Va # your leancloud application appid
+  appKey: AKcxVOxuIVG8yS7JCVVvb2BX # your leancloud application appkey
+  serverURLs: https://zjkllkre.lc-cn-n1-shared.com # When the custom domain name is enabled, fill it in here
+  placeholder: 来说点什么吧 # comment box placeholder
+  avatar: mm # gravatar style
+  meta: [nick, mail, link] # Custom comment header
+  pageSize: 10 # pagination size
+  visitor: true # leancloud-counter-security is not supported for now. When visitor is set to be true, appid and appkey are recommended to be the same as leancloud_visitors' for counter compatibility. Article reading statistic https://valine.js.org/visitor.html
+  comment_count: true # If false, comment count will only be displayed in post page, not in home page
+  recordIP: true # Whether to record the commenter IP
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
