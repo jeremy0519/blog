@@ -4,7 +4,6 @@ categories:
 - 免费搭建个人博客
 tags: 
 - Hexo
-copyright: true
 abbrlink: 5a5675d8
 ---
 #### 本文是windows的教程，Mac OS请自力更生，或自行上网搜索
@@ -16,7 +15,7 @@ abbrlink: 5a5675d8
 npm install hexo-cli -g
 {% endcodeblock %}
 如图.
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic11.jpg)
+{% asset_img pic11.jpg %}
 <!-- more -->
 #### 第2步
 在博客根目录Git Bash，输入
@@ -24,14 +23,14 @@ npm install hexo-cli -g
 hexo init
 {% endcodeblock %}
 如图.
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic12.jpg)
+{% asset_img pic12.jpg %}
 #### 第4步
 输入
 {% codeblock %}
 npm install
 {% endcodeblock %}
 如图.
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic13.jpg)
+{% asset_img pic13.jpg %}
 #### 第5步
 输入
 {% codeblock %}
@@ -43,11 +42,11 @@ hexo g
 hexo s
 {% endcodeblock %}
 如图.
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic14.jpg)
+{% asset_img pic14.jpg %}
 #### 第6步
 打开浏览器，网址输入
 {% codeblock %}
 localhost:4000
 {% endcodeblock %}
 就可以看到如图.
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic15.jpg)
+{% asset_img pic15.jpg %}

@@ -1,6 +1,5 @@
 ---
 title: hexo-高级-04
-copyright: true
 tags:
   - Hexo
 categories:

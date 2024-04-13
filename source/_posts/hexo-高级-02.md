@@ -1,6 +1,5 @@
 ---
 title: hexo-高级-02
-copyright: true
 tags:
   - Hexo
 categories:
@@ -15,7 +14,7 @@ date: 2019-04-01 17:59:11
 {% codeblock %}
 npm install hexo-generator-feed
 {% endcodeblock %}
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic22.jpg)
+{% asset_img pic22.jpg %}
 <!-- more -->
 ##### 步骤2
 将博客根目录下的_config.yml中的末尾加入如下配置.
@@ -36,7 +35,7 @@ limit: 20
 {% codeblock %}
 rss: /atom.xml
 {% endcodeblock %}
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic23.jpg)
+{% asset_img pic23.jpg %}
 ##### 步骤4
 重新部署.
 

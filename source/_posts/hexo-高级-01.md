@@ -1,6 +1,5 @@
 ---
 title: hexo-高级-01
-copyright: true
 tags:
   - Hexo
 categories: 
@@ -29,7 +28,7 @@ date: 2019-03-30 19:24:50
 ##### 步骤4
 
 进入D:\blog\themes\next\_config.yml，找到valine字段
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic20.jpg)
+{% asset_img pic20.jpg %}
 将enable设置为true；appid里粘贴步骤3里获取的appid；appkey里粘贴步骤3里获取的appkey；placeholder（提示符）可以随便改.
 即将valine字段设置为:
 {% codeblock %}
@@ -50,7 +49,7 @@ valine:
 ##### 步骤5
 
 进入到创建的应用，设置web安全域名.
-![](https://serverless-page-bucket-jm08mud0-1300042459.cos-website.ap-shanghai.myqcloud.com/pic21.jpg)
+{% asset_img pic21.jpg %}
 
 ##### 步骤6
 

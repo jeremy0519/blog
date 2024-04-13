@@ -4,7 +4,6 @@ categories:
 - 免费搭建个人博客
 tags: 
 - Hexo
-copyright: true
 abbrlink: 9ea89cb4
 ---
 #### 本文是windows的教程，Mac OS请自力更生，或自行上网搜索
