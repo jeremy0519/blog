@@ -657,6 +657,23 @@ canvas_ribbon:
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
 
+# JavaScript 3D library.
+# Dependencies: https://github.com/next-theme/hexo-next-three
+three:
+  enable: true
+  # CDN must use ESM version.
+  # e.g. https://cdn.jsdelivr.net/npm/three@latest/build/three.module.min.js
+  cdn: https://cdn.staticfile.net/three.js/0.160.0/three.module.min.js
+  waves:
+    enable: false
+    cdn:
+  lines:
+    enable: true
+    cdn:
+  sphere:
+    enable: false
+    cdn:
+
 # ---------------------------------------------------------------
 # Comments Settings
 # See: https://theme-next.js.org/docs/third-party-services/comments
