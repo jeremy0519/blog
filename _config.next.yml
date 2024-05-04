@@ -662,7 +662,7 @@ canvas_ribbon:
 # JavaScript 3D library.
 # Dependencies: https://github.com/next-theme/hexo-next-three
 three:
-  enable: true
+  enable: false
   # CDN must use ESM version.
   # e.g. https://cdn.jsdelivr.net/npm/three@latest/build/three.module.min.js
   cdn: https://cdn.staticfile.net/three.js/0.160.0/three.module.min.js
