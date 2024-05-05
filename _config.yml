@@ -101,7 +101,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 
 
 search:
   path: search.xml
@@ -127,7 +126,7 @@ abbrlink:
 filter_optimize:
   enable: true
   # static resource versioning
-  versioning: false
+  versioning: true
   css:
     # minify all css files
     minify: true
